@@ -1,0 +1,16 @@
+body{ font-family:'Times New Roman'; font-size:1em; }
+p {padding:0;margin-top:0;margin-right:0;margin-bottom:8;margin-left:0;}
+ul, ol{ margin-top: 0; margin-bottom: 0; }
+.Normal{text-align:left;page-break-inside:auto;page-break-after:auto;page-break-before:auto;line-height:12.95pt;margin-top:0pt;margin-bottom:8pt;margin-left:0pt;text-indent:0pt;border-top-style: none;border-left-style: none;border-right-style: none;border-bottom-style: none;font-family:Calibri,Arial;font-size:11pt;}
+.Default-Paragraph-Font{font-family:Calibri,Arial;font-size:11pt;}
+.Normal-Table{}
+.Title{text-align:left;page-break-inside:auto;page-break-after:auto;page-break-before:auto;line-height:12pt;margin-top:0pt;margin-bottom:0pt;margin-left:0pt;text-indent:0pt;border-top-style: none;border-left-style: none;border-right-style: none;border-bottom-style: none;font-family:'Calibri Light','等线 Light','Times New Roman';font-size:28pt;}
+.Rubrik-Char{font-family:'Calibri Light','等线 Light','Times New Roman';font-size:28pt;}
+.No-Spacing{text-align:left;page-break-inside:auto;page-break-after:auto;page-break-before:auto;line-height:12pt;margin-top:0pt;margin-bottom:0pt;margin-left:0pt;text-indent:0pt;border-top-style: none;border-left-style: none;border-right-style: none;border-bottom-style: none;font-family:Calibri,Arial;font-size:11pt;}
+.Header{text-align:left;page-break-inside:auto;page-break-after:auto;page-break-before:auto;line-height:12pt;margin-top:0pt;margin-bottom:0pt;margin-left:0pt;text-indent:0pt;border-top-style: none;border-left-style: none;border-right-style: none;border-bottom-style: none;font-family:Calibri,Arial;font-size:11pt;}
+.Sidhuvud-Char{font-family:Calibri,Arial;font-size:11pt;}
+.Footer{text-align:left;page-break-inside:auto;page-break-after:auto;page-break-before:auto;line-height:12pt;margin-top:0pt;margin-bottom:0pt;margin-left:0pt;text-indent:0pt;border-top-style: none;border-left-style: none;border-right-style: none;border-bottom-style: none;font-family:Calibri,Arial;font-size:11pt;}
+.Sidfot-Char{font-family:Calibri,Arial;font-size:11pt;}
+.Footnote-Text{text-align:left;page-break-inside:auto;page-break-after:auto;page-break-before:auto;line-height:12pt;margin-top:0pt;margin-bottom:0pt;margin-left:0pt;text-indent:0pt;border-top-style: none;border-left-style: none;border-right-style: none;border-bottom-style: none;font-family:Calibri,Arial;font-size:10pt;}
+.Fotnotstext-Char{font-family:Calibri,Arial;font-size:10pt;}
+.Footnote-Reference{font-family:Calibri,Arial;font-size:11pt;vertical-align:super;font-size:0.46em;}

@@ -1,0 +1,10 @@
+﻿<Application x:Class="MySiteUpdater.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:MySiteUpdater"
+             xmlns:viewModels="clr-namespace:MySiteUpdater.ViewModels"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <viewModels:MainWindowViewModel x:Key="MainWindowViewModel"/>
+    </Application.Resources>
+</Application>
